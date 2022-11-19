@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/menuFragments">
+    <fragment
+        android:id="@+id/menuFragments"
+        android:name="com.example.viewpagerall.fragments.MenuFragments"
+        android:label="fragment_menu_fragments"
+        tools:layout="@layout/fragment_menu_fragments" >
+        <action
+            android:id="@+id/action_menuFragments_to_viewListFragmentPager"
+            app:destination="@id/viewListFragmentPager" />
+        <action
+            android:id="@+id/action_menuFragments_to_viewPagerFragmentPagerAdapterFragment"
+            app:destination="@id/viewPagerFragmentPagerAdapterFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewListFragmentPager"
+        android:name="com.example.viewpagerall.fragments.ViewListFragmentPager"
+        android:label="fragment_view_list_pager"
+        tools:layout="@layout/fragment_view_list_pager" />
+    <fragment
+        android:id="@+id/viewPagerFragmentPagerAdapterFragment"
+        android:name="com.example.viewpagerall.fragments.ViewPagerFragmentPagerAdapterFragment"
+        android:label="fragment_view_pager_pager_adapter"
+        tools:layout="@layout/fragment_view_pager_pager_adapter" />
+</navigation>

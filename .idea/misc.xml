@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/drawable/cutomer_back.xml" value="0.132" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.132" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_menu_fragments.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_tab1.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_tab2.xml" value="0.165625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_tab3.xml" value="0.165625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_view_list_pager.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/fragment_view_pager_pager_adapter.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/selecting_pager_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/view_blue.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/view_green.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ViewPagerAll2/app/src/main/res/layout/view_red.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
